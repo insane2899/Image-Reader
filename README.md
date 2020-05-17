@@ -8,6 +8,8 @@ Anyway to use this project one must have <strong>Tesseract OCR</strong> installe
 Now about the project:
 
 On running the project the first page that comes is:
+
+
 ![Screenshot](https://github.com/insane2899/Image-Reader/blob/master/userguide_images/landing.png?raw=true "Start Image")
 
 On click Enter a dialogue box appears asking to enter path to the image to be edited:
