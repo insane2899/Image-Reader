@@ -3,6 +3,9 @@ package ImageConvert;
 import java.awt.image.BufferedImage;
 import java.lang.*;
 
+
+//Just to check if git is working
+
 public class ImageCompare {
 	private BufferedImage test,gt;
 	
